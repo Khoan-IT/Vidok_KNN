@@ -1,0 +1,601 @@
+Chỗ ở,Nơi ở,Lương,Công việc,Bằng cấp,Tuổi,Thẻ tín dụng,Phương tiện,Hôn nhân,Phân mức
+nhà thuê,trung tâm,10-15,công nhân,Đại học,23-30,không,xe máy,có,bình dân
+phòng trọ,trung tâm,15-20,công nhân,Đại học,< 23,không,xe máy,không,bình dân
+phòng trọ,trung tâm,< 10,hành chính,phổ thông,40-50,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,< 10,TX con người,phổ thông,30-40,không,xe máy,có,bình dân
+phòng trọ,trung tâm,< 10,TX tự nhiên,phổ thông,30-40,không,xe máy,có,bình dân
+phòng trọ,trung tâm,10-15,TX tự nhiên,cao đẳng,< 23,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,< 10,TX tự nhiên,Đại học,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,< 10,TX tự nhiên,cao đẳng,> 50,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,10-15,công nhân,Đại học,23-30,không,phương tiện công cộng,có,bình dân
+nhà thuê,ngoại ô,< 10,công nhân,cao đẳng,23-30,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,15-20,TX con người,phổ thông,> 50,không,xe máy,có,bình dân
+phòng trọ,trung tâm,10-15,TX tự nhiên,cao đẳng,< 23,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,10-15,TX tự nhiên,cao đẳng,23-30,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,15-20,TX con người,phổ thông,23-30,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,10-15,TX tự nhiên,cao đẳng,> 50,không,xe máy,có,bình dân
+nhà thuê,trung tâm,10-15,hành chính,cao đẳng,30-40,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,10-15,TX tự nhiên,phổ thông,23-30,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,10-15,TX tự nhiên,Đại học,40-50,không,xe máy,không,bình dân
+nhà thuê,trung tâm,10-15,TX tự nhiên,phổ thông,> 50,không,phương tiện công cộng,không,bình dân
+phòng trọ,trung tâm,< 10,công nhân,cao đẳng,> 50,không,phương tiện công cộng,có,bình dân
+nhà thuê,ngoại ô,15-20,TX tự nhiên,cao đẳng,40-50,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,15-20,TX tự nhiên,phổ thông,30-40,không,xe máy,không,bình dân
+nhà thuê,trung tâm,15-20,công nhân,phổ thông,> 50,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,10-15,TX tự nhiên,cao đẳng,> 50,không,xe máy,không,bình dân
+phòng trọ,trung tâm,15-20,công nhân,Đại học,> 50,không,xe máy,có,bình dân
+nhà thuê,trung tâm,< 10,hành chính,Đại học,30-40,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,< 10,TX con người,Đại học,23-30,không,phương tiện công cộng,không,bình dân
+phòng trọ,trung tâm,15-20,hành chính,cao đẳng,40-50,không,xe máy,không,bình dân
+nhà thuê,trung tâm,15-20,hành chính,Đại học,> 50,không,phương tiện công cộng,không,bình dân
+phòng trọ,trung tâm,< 10,TX con người,Đại học,40-50,không,xe máy,không,bình dân
+nhà thuê,trung tâm,10-15,hành chính,Đại học,< 23,không,phương tiện công cộng,không,bình dân
+phòng trọ,trung tâm,15-20,công nhân,Đại học,30-40,không,phương tiện công cộng,có,bình dân
+nhà thuê,ngoại ô,15-20,hành chính,phổ thông,< 23,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,15-20,công nhân,Đại học,> 50,không,xe máy,có,bình dân
+nhà thuê,trung tâm,15-20,công nhân,phổ thông,23-30,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,15-20,hành chính,phổ thông,40-50,không,phương tiện công cộng,không,bình dân
+phòng trọ,trung tâm,10-15,TX tự nhiên,cao đẳng,23-30,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,15-20,công nhân,Đại học,40-50,không,phương tiện công cộng,có,bình dân
+phòng trọ,ngoại ô,10-15,TX con người,Đại học,40-50,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,15-20,TX con người,cao đẳng,40-50,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,10-15,công nhân,Đại học,< 23,không,phương tiện công cộng,có,bình dân
+nhà thuê,trung tâm,15-20,công nhân,phổ thông,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,10-15,TX tự nhiên,Đại học,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,15-20,hành chính,Đại học,< 23,không,phương tiện công cộng,có,bình dân
+nhà thuê,ngoại ô,15-20,công nhân,cao đẳng,30-40,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,10-15,công nhân,phổ thông,23-30,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,< 10,hành chính,cao đẳng,40-50,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,10-15,công nhân,Đại học,< 23,không,phương tiện công cộng,có,bình dân
+nhà thuê,trung tâm,10-15,công nhân,Đại học,> 50,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,< 10,TX tự nhiên,Đại học,40-50,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,15-20,công nhân,phổ thông,40-50,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,15-20,TX tự nhiên,Đại học,23-30,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,10-15,hành chính,cao đẳng,< 23,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,15-20,công nhân,cao đẳng,40-50,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,10-15,công nhân,Đại học,40-50,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,10-15,hành chính,Đại học,23-30,không,phương tiện công cộng,có,bình dân
+nhà thuê,trung tâm,10-15,công nhân,cao đẳng,40-50,không,xe máy,không,bình dân
+phòng trọ,trung tâm,10-15,TX tự nhiên,cao đẳng,40-50,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,10-15,TX con người,Đại học,30-40,không,xe máy,không,bình dân
+nhà thuê,trung tâm,< 10,hành chính,phổ thông,23-30,không,phương tiện công cộng,có,bình dân
+nhà thuê,ngoại ô,10-15,TX tự nhiên,cao đẳng,< 23,không,xe máy,có,bình dân
+nhà thuê,trung tâm,10-15,TX tự nhiên,cao đẳng,> 50,không,xe máy,không,bình dân
+nhà thuê,trung tâm,15-20,TX con người,cao đẳng,< 23,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,15-20,TX con người,Đại học,< 23,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,< 10,TX con người,Đại học,< 23,không,xe máy,không,bình dân
+phòng trọ,trung tâm,< 10,công nhân,cao đẳng,> 50,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,< 10,TX con người,phổ thông,23-30,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,< 10,TX con người,Đại học,> 50,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,15-20,hành chính,phổ thông,< 23,không,phương tiện công cộng,có,bình dân
+nhà thuê,ngoại ô,15-20,hành chính,cao đẳng,40-50,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,15-20,TX con người,phổ thông,> 50,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,10-15,TX tự nhiên,cao đẳng,23-30,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,10-15,hành chính,cao đẳng,< 23,không,phương tiện công cộng,có,bình dân
+phòng trọ,ngoại ô,10-15,hành chính,cao đẳng,30-40,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,10-15,hành chính,phổ thông,23-30,không,xe máy,không,bình dân
+nhà thuê,trung tâm,10-15,TX con người,cao đẳng,> 50,không,xe máy,có,bình dân
+nhà thuê,trung tâm,< 10,TX tự nhiên,phổ thông,30-40,không,phương tiện công cộng,có,bình dân
+phòng trọ,ngoại ô,< 10,công nhân,Đại học,< 23,không,xe máy,có,bình dân
+phòng trọ,trung tâm,10-15,TX con người,cao đẳng,< 23,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,< 10,TX tự nhiên,Đại học,23-30,không,xe máy,không,bình dân
+phòng trọ,trung tâm,15-20,hành chính,phổ thông,> 50,không,xe máy,có,bình dân
+phòng trọ,trung tâm,15-20,công nhân,cao đẳng,30-40,không,xe máy,không,bình dân
+phòng trọ,trung tâm,10-15,hành chính,cao đẳng,40-50,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,< 10,công nhân,cao đẳng,40-50,không,phương tiện công cộng,không,bình dân
+phòng trọ,trung tâm,15-20,TX tự nhiên,phổ thông,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,15-20,công nhân,phổ thông,30-40,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,< 10,hành chính,cao đẳng,23-30,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,15-20,TX con người,Đại học,< 23,không,xe máy,có,bình dân
+nhà thuê,trung tâm,15-20,TX con người,phổ thông,> 50,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,10-15,TX con người,cao đẳng,23-30,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,10-15,TX con người,Đại học,40-50,không,xe máy,có,bình dân
+phòng trọ,trung tâm,10-15,TX tự nhiên,cao đẳng,< 23,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,< 10,công nhân,cao đẳng,< 23,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,< 10,hành chính,Đại học,40-50,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,< 10,TX tự nhiên,phổ thông,< 23,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,< 10,công nhân,Đại học,40-50,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,15-20,hành chính,phổ thông,> 50,không,phương tiện công cộng,không,bình dân
+phòng trọ,trung tâm,10-15,TX con người,cao đẳng,40-50,không,xe máy,có,bình dân
+phòng trọ,trung tâm,< 10,hành chính,phổ thông,30-40,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,10-15,TX tự nhiên,phổ thông,< 23,không,xe máy,không,bình dân
+nhà thuê,trung tâm,15-20,công nhân,phổ thông,< 23,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,10-15,TX tự nhiên,phổ thông,> 50,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,< 10,TX tự nhiên,Đại học,40-50,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,10-15,TX con người,cao đẳng,40-50,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,15-20,TX con người,Đại học,> 50,không,xe máy,không,bình dân
+nhà thuê,trung tâm,10-15,TX tự nhiên,cao đẳng,40-50,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,10-15,TX tự nhiên,cao đẳng,> 50,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,10-15,TX con người,phổ thông,> 50,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,15-20,công nhân,cao đẳng,< 23,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,10-15,hành chính,phổ thông,< 23,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,10-15,TX con người,cao đẳng,40-50,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,10-15,TX con người,phổ thông,30-40,không,xe máy,không,bình dân
+phòng trọ,trung tâm,15-20,công nhân,phổ thông,40-50,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,15-20,công nhân,phổ thông,> 50,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,10-15,TX tự nhiên,cao đẳng,< 23,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,10-15,công nhân,cao đẳng,> 50,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,< 10,hành chính,cao đẳng,< 23,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,15-20,công nhân,phổ thông,40-50,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,< 10,công nhân,Đại học,40-50,không,xe máy,có,bình dân
+phòng trọ,trung tâm,10-15,hành chính,Đại học,> 50,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,< 10,TX con người,Đại học,< 23,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,< 10,hành chính,cao đẳng,< 23,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,< 10,công nhân,phổ thông,30-40,không,xe máy,không,bình dân
+nhà thuê,trung tâm,< 10,hành chính,phổ thông,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,10-15,hành chính,phổ thông,30-40,không,xe máy,không,bình dân
+nhà thuê,trung tâm,10-15,công nhân,phổ thông,23-30,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,10-15,công nhân,Đại học,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,< 10,TX tự nhiên,cao đẳng,< 23,không,phương tiện công cộng,có,bình dân
+nhà thuê,trung tâm,15-20,TX con người,cao đẳng,> 50,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,15-20,TX tự nhiên,cao đẳng,40-50,không,phương tiện công cộng,có,bình dân
+nhà thuê,trung tâm,15-20,hành chính,Đại học,> 50,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,< 10,TX tự nhiên,phổ thông,30-40,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,< 10,hành chính,cao đẳng,23-30,không,xe máy,không,bình dân
+phòng trọ,trung tâm,15-20,TX con người,Đại học,23-30,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,15-20,TX con người,Đại học,40-50,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,< 10,công nhân,cao đẳng,> 50,không,xe máy,không,bình dân
+nhà thuê,trung tâm,10-15,TX tự nhiên,cao đẳng,< 23,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,10-15,TX tự nhiên,Đại học,> 50,không,xe máy,không,bình dân
+phòng trọ,trung tâm,10-15,hành chính,cao đẳng,> 50,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,10-15,công nhân,phổ thông,> 50,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,< 10,TX con người,cao đẳng,> 50,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,15-20,TX tự nhiên,cao đẳng,30-40,không,xe máy,có,bình dân
+phòng trọ,trung tâm,< 10,hành chính,Đại học,23-30,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,15-20,công nhân,phổ thông,< 23,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,10-15,TX tự nhiên,cao đẳng,23-30,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,10-15,TX tự nhiên,cao đẳng,23-30,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,< 10,TX tự nhiên,Đại học,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,15-20,công nhân,cao đẳng,30-40,không,phương tiện công cộng,có,bình dân
+nhà thuê,trung tâm,15-20,TX con người,Đại học,< 23,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,< 10,hành chính,phổ thông,40-50,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,10-15,công nhân,phổ thông,< 23,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,< 10,công nhân,cao đẳng,40-50,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,15-20,TX tự nhiên,cao đẳng,30-40,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,15-20,công nhân,phổ thông,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,15-20,TX con người,Đại học,23-30,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,< 10,TX con người,cao đẳng,23-30,không,xe máy,có,bình dân
+phòng trọ,trung tâm,10-15,công nhân,Đại học,30-40,không,xe máy,không,bình dân
+phòng trọ,trung tâm,< 10,hành chính,Đại học,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,< 10,TX tự nhiên,phổ thông,< 23,không,phương tiện công cộng,có,bình dân
+nhà thuê,ngoại ô,10-15,TX tự nhiên,phổ thông,< 23,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,< 10,hành chính,phổ thông,40-50,không,xe máy,không,bình dân
+nhà thuê,trung tâm,15-20,TX tự nhiên,cao đẳng,> 50,không,phương tiện công cộng,không,bình dân
+phòng trọ,trung tâm,< 10,hành chính,phổ thông,23-30,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,15-20,công nhân,Đại học,> 50,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,10-15,công nhân,Đại học,> 50,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,10-15,TX tự nhiên,cao đẳng,40-50,không,phương tiện công cộng,không,bình dân
+phòng trọ,trung tâm,15-20,công nhân,cao đẳng,< 23,không,xe máy,có,bình dân
+phòng trọ,trung tâm,10-15,công nhân,phổ thông,< 23,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,15-20,TX tự nhiên,Đại học,< 23,không,xe máy,không,bình dân
+phòng trọ,trung tâm,< 10,công nhân,Đại học,23-30,không,xe máy,có,bình dân
+nhà thuê,trung tâm,< 10,TX tự nhiên,cao đẳng,30-40,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,10-15,hành chính,phổ thông,23-30,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,< 10,công nhân,cao đẳng,40-50,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,15-20,hành chính,cao đẳng,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,15-20,TX con người,Đại học,30-40,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,15-20,hành chính,cao đẳng,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,15-20,TX con người,phổ thông,40-50,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,10-15,công nhân,Đại học,> 50,không,xe máy,không,bình dân
+phòng trọ,trung tâm,10-15,TX con người,cao đẳng,23-30,không,phương tiện công cộng,có,bình dân
+nhà thuê,trung tâm,15-20,TX tự nhiên,phổ thông,23-30,không,phương tiện công cộng,có,bình dân
+phòng trọ,trung tâm,15-20,công nhân,cao đẳng,30-40,không,xe máy,không,bình dân
+nhà thuê,trung tâm,< 10,công nhân,cao đẳng,23-30,không,phương tiện công cộng,không,bình dân
+nhà thuê,ngoại ô,15-20,công nhân,cao đẳng,30-40,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,10-15,TX tự nhiên,cao đẳng,23-30,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,< 10,TX tự nhiên,cao đẳng,> 50,không,xe máy,có,bình dân
+nhà thuê,trung tâm,10-15,công nhân,cao đẳng,< 23,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,15-20,TX tự nhiên,Đại học,30-40,không,phương tiện công cộng,có,bình dân
+nhà thuê,trung tâm,15-20,hành chính,Đại học,< 23,không,phương tiện công cộng,không,bình dân
+phòng trọ,ngoại ô,< 10,công nhân,Đại học,> 50,không,xe máy,có,bình dân
+phòng trọ,ngoại ô,15-20,TX con người,Đại học,> 50,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,< 10,TX tự nhiên,phổ thông,> 50,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,10-15,công nhân,cao đẳng,< 23,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,< 10,TX tự nhiên,Đại học,< 23,không,xe máy,có,bình dân
+nhà thuê,trung tâm,15-20,TX con người,cao đẳng,30-40,không,xe máy,không,bình dân
+phòng trọ,ngoại ô,< 10,TX con người,cao đẳng,< 23,không,xe máy,không,bình dân
+nhà thuê,ngoại ô,< 10,TX con người,phổ thông,< 23,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,15-20,hành chính,Đại học,< 23,không,phương tiện công cộng,không,bình dân
+nhà thuê,trung tâm,10-15,TX tự nhiên,Đại học,30-40,không,phương tiện công cộng,có,bình dân
+nhà thuê,trung tâm,15-20,công nhân,Đại học,> 50,không,phương tiện công cộng,có,bình dân
+nhà thuê,ngoại ô,15-20,hành chính,phổ thông,< 23,không,xe máy,có,bình dân
+nhà thuê,ngoại ô,30-40,TX con người,> đại học,30-40,không,xe máy,có,trung lưu
+nhà thuê,trung tâm,20-30,văn hoá nghệ thuật,cao đẳng,> 50,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,15-20,kỹ thuật,đại học,40-50,không,ô tô,có,trung lưu
+nhà thuê,ngoại ô,10-15,kỹ thuật,cao đẳng,30-40,không,xe máy,không,trung lưu
+chung cư,trung tâm,20-30,kỹ thuật,cao đẳng,23-30,không,ô tô,có,trung lưu
+chung cư,trung tâm,15-20,kỹ thuật,> đại học,> 50,không,xe máy,có,trung lưu
+nhà thuê,ngoại ô,15-20,TX con người,cao đẳng,23-30,có,xe máy,có,trung lưu
+nhà thuê,ngoại ô,20-30,văn hoá nghệ thuật,> đại học,23-30,không,xe máy,có,trung lưu
+nhà thuê,trung tâm,15-20,TX con người,> đại học,23-30,không,xe máy,có,trung lưu
+nhà thuê,trung tâm,15-20,kỹ thuật,đại học,23-30,không,xe máy,không,trung lưu
+nhà thuê,trung tâm,15-20,TX con người,đại học,> 50,không,ô tô,không,trung lưu
+nhà thuê,trung tâm,10-15,hành chính,cao đẳng,23-30,không,ô tô,không,trung lưu
+chung cư,ngoại ô,15-20,kỹ thuật,> đại học,40-50,có,ô tô,có,trung lưu
+nhà thuê,ngoại ô,30-40,kỹ thuật,cao đẳng,> 50,không,xe máy,có,trung lưu
+chung cư,ngoại ô,20-30,kỹ thuật,đại học,23-30,có,xe máy,không,trung lưu
+nhà thuê,ngoại ô,10-15,văn hoá nghệ thuật,cao đẳng,> 50,có,xe máy,có,trung lưu
+nhà thuê,trung tâm,10-15,kỹ thuật,đại học,> 50,có,ô tô,có,trung lưu
+nhà thuê,trung tâm,30-40,hành chính,> đại học,23-30,có,xe máy,có,trung lưu
+nhà thuê,ngoại ô,15-20,TX con người,> đại học,30-40,có,ô tô,không,trung lưu
+nhà thuê,trung tâm,15-20,hành chính,> đại học,30-40,không,xe máy,không,trung lưu
+nhà thuê,trung tâm,20-30,kỹ thuật,đại học,> 50,không,ô tô,có,trung lưu
+nhà thuê,ngoại ô,20-30,hành chính,cao đẳng,23-30,không,ô tô,không,trung lưu
+chung cư,trung tâm,10-15,hành chính,> đại học,40-50,có,ô tô,có,trung lưu
+chung cư,trung tâm,20-30,TX con người,> đại học,40-50,có,xe máy,không,trung lưu
+nhà thuê,ngoại ô,30-40,văn hoá nghệ thuật,cao đẳng,40-50,có,ô tô,có,trung lưu
+nhà thuê,ngoại ô,30-40,văn hoá nghệ thuật,đại học,> 50,có,ô tô,có,trung lưu
+chung cư,ngoại ô,20-30,kỹ thuật,cao đẳng,30-40,không,xe máy,không,trung lưu
+chung cư,trung tâm,30-40,hành chính,đại học,30-40,không,xe máy,không,trung lưu
+nhà thuê,trung tâm,20-30,TX con người,> đại học,30-40,không,xe máy,không,trung lưu
+chung cư,trung tâm,30-40,hành chính,đại học,> 50,không,xe máy,có,trung lưu
+nhà thuê,trung tâm,20-30,hành chính,đại học,40-50,không,xe máy,có,trung lưu
+nhà thuê,trung tâm,10-15,hành chính,> đại học,30-40,không,ô tô,không,trung lưu
+chung cư,ngoại ô,15-20,TX con người,> đại học,23-30,không,xe máy,có,trung lưu
+chung cư,ngoại ô,20-30,văn hoá nghệ thuật,cao đẳng,40-50,có,ô tô,có,trung lưu
+chung cư,ngoại ô,15-20,kỹ thuật,> đại học,> 50,có,ô tô,không,trung lưu
+nhà thuê,trung tâm,20-30,hành chính,đại học,23-30,không,xe máy,có,trung lưu
+chung cư,ngoại ô,20-30,hành chính,> đại học,> 50,có,ô tô,có,trung lưu
+nhà thuê,trung tâm,15-20,văn hoá nghệ thuật,> đại học,30-40,có,ô tô,không,trung lưu
+chung cư,trung tâm,20-30,kỹ thuật,đại học,23-30,có,xe máy,có,trung lưu
+nhà thuê,trung tâm,15-20,TX con người,> đại học,> 50,không,xe máy,có,trung lưu
+chung cư,trung tâm,20-30,văn hoá nghệ thuật,đại học,40-50,có,xe máy,có,trung lưu
+chung cư,trung tâm,10-15,hành chính,đại học,30-40,không,xe máy,có,trung lưu
+nhà thuê,ngoại ô,30-40,hành chính,đại học,40-50,có,ô tô,không,trung lưu
+nhà thuê,trung tâm,20-30,kỹ thuật,cao đẳng,40-50,không,xe máy,không,trung lưu
+chung cư,trung tâm,10-15,văn hoá nghệ thuật,cao đẳng,> 50,không,ô tô,không,trung lưu
+nhà thuê,trung tâm,20-30,TX con người,cao đẳng,> 50,không,ô tô,không,trung lưu
+chung cư,trung tâm,30-40,văn hoá nghệ thuật,đại học,23-30,không,xe máy,không,trung lưu
+chung cư,trung tâm,10-15,TX con người,đại học,23-30,có,xe máy,không,trung lưu
+nhà thuê,trung tâm,30-40,hành chính,đại học,40-50,có,ô tô,không,trung lưu
+chung cư,ngoại ô,15-20,văn hoá nghệ thuật,cao đẳng,> 50,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,10-15,TX con người,đại học,30-40,có,xe máy,không,trung lưu
+nhà thuê,ngoại ô,15-20,hành chính,> đại học,> 50,không,xe máy,có,trung lưu
+chung cư,ngoại ô,20-30,văn hoá nghệ thuật,cao đẳng,23-30,không,xe máy,không,trung lưu
+nhà thuê,trung tâm,30-40,hành chính,đại học,40-50,không,ô tô,không,trung lưu
+nhà thuê,ngoại ô,20-30,TX con người,> đại học,30-40,có,xe máy,có,trung lưu
+chung cư,ngoại ô,30-40,kỹ thuật,> đại học,> 50,có,ô tô,không,trung lưu
+nhà thuê,ngoại ô,30-40,TX con người,cao đẳng,> 50,có,xe máy,có,trung lưu
+nhà thuê,trung tâm,30-40,văn hoá nghệ thuật,cao đẳng,30-40,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,15-20,TX con người,> đại học,40-50,có,ô tô,không,trung lưu
+chung cư,ngoại ô,15-20,kỹ thuật,> đại học,30-40,không,ô tô,có,trung lưu
+nhà thuê,trung tâm,15-20,văn hoá nghệ thuật,cao đẳng,30-40,không,ô tô,có,trung lưu
+nhà thuê,ngoại ô,15-20,văn hoá nghệ thuật,cao đẳng,23-30,không,ô tô,có,trung lưu
+nhà thuê,ngoại ô,10-15,TX con người,cao đẳng,> 50,có,xe máy,có,trung lưu
+chung cư,trung tâm,30-40,TX con người,đại học,23-30,có,ô tô,có,trung lưu
+chung cư,ngoại ô,10-15,văn hoá nghệ thuật,đại học,23-30,có,xe máy,không,trung lưu
+chung cư,trung tâm,30-40,văn hoá nghệ thuật,đại học,23-30,có,ô tô,có,trung lưu
+chung cư,trung tâm,15-20,văn hoá nghệ thuật,cao đẳng,> 50,không,xe máy,có,trung lưu
+chung cư,trung tâm,15-20,kỹ thuật,> đại học,40-50,không,ô tô,có,trung lưu
+chung cư,trung tâm,10-15,hành chính,đại học,23-30,có,xe máy,không,trung lưu
+nhà thuê,ngoại ô,30-40,TX con người,cao đẳng,> 50,không,xe máy,có,trung lưu
+chung cư,trung tâm,20-30,văn hoá nghệ thuật,đại học,30-40,có,ô tô,không,trung lưu
+chung cư,trung tâm,30-40,văn hoá nghệ thuật,cao đẳng,40-50,không,xe máy,có,trung lưu
+chung cư,trung tâm,30-40,hành chính,> đại học,40-50,không,ô tô,không,trung lưu
+nhà thuê,trung tâm,10-15,TX con người,cao đẳng,> 50,không,ô tô,không,trung lưu
+nhà thuê,ngoại ô,30-40,kỹ thuật,> đại học,30-40,không,xe máy,có,trung lưu
+nhà thuê,ngoại ô,30-40,văn hoá nghệ thuật,cao đẳng,30-40,không,xe máy,có,trung lưu
+chung cư,ngoại ô,30-40,hành chính,cao đẳng,23-30,có,ô tô,có,trung lưu
+chung cư,ngoại ô,20-30,hành chính,> đại học,40-50,không,ô tô,có,trung lưu
+chung cư,ngoại ô,30-40,TX con người,> đại học,30-40,có,xe máy,có,trung lưu
+chung cư,ngoại ô,20-30,TX con người,> đại học,40-50,không,ô tô,không,trung lưu
+nhà thuê,trung tâm,30-40,kỹ thuật,> đại học,40-50,không,xe máy,không,trung lưu
+chung cư,trung tâm,20-30,TX con người,đại học,40-50,không,xe máy,không,trung lưu
+chung cư,trung tâm,20-30,kỹ thuật,cao đẳng,> 50,có,ô tô,có,trung lưu
+nhà thuê,ngoại ô,20-30,hành chính,cao đẳng,> 50,không,ô tô,không,trung lưu
+nhà thuê,ngoại ô,30-40,hành chính,> đại học,30-40,có,xe máy,không,trung lưu
+chung cư,trung tâm,30-40,kỹ thuật,> đại học,30-40,không,ô tô,có,trung lưu
+chung cư,trung tâm,30-40,TX con người,đại học,23-30,có,ô tô,có,trung lưu
+chung cư,ngoại ô,10-15,TX con người,> đại học,23-30,không,xe máy,không,trung lưu
+nhà thuê,trung tâm,20-30,TX con người,> đại học,> 50,có,xe máy,không,trung lưu
+nhà thuê,trung tâm,10-15,văn hoá nghệ thuật,đại học,23-30,không,xe máy,có,trung lưu
+chung cư,ngoại ô,10-15,TX con người,cao đẳng,30-40,không,ô tô,có,trung lưu
+nhà thuê,trung tâm,20-30,văn hoá nghệ thuật,> đại học,30-40,có,xe máy,có,trung lưu
+chung cư,trung tâm,30-40,văn hoá nghệ thuật,> đại học,> 50,không,ô tô,không,trung lưu
+nhà thuê,ngoại ô,30-40,văn hoá nghệ thuật,> đại học,40-50,không,xe máy,có,trung lưu
+nhà thuê,ngoại ô,30-40,TX con người,cao đẳng,40-50,có,xe máy,không,trung lưu
+nhà thuê,ngoại ô,15-20,văn hoá nghệ thuật,cao đẳng,40-50,không,ô tô,không,trung lưu
+chung cư,ngoại ô,30-40,hành chính,đại học,23-30,có,ô tô,không,trung lưu
+nhà thuê,ngoại ô,15-20,văn hoá nghệ thuật,cao đẳng,30-40,có,xe máy,có,trung lưu
+nhà thuê,trung tâm,10-15,kỹ thuật,đại học,40-50,có,xe máy,có,trung lưu
+nhà thuê,ngoại ô,15-20,hành chính,> đại học,40-50,có,xe máy,không,trung lưu
+nhà thuê,trung tâm,30-40,văn hoá nghệ thuật,> đại học,40-50,không,ô tô,không,trung lưu
+chung cư,ngoại ô,20-30,hành chính,cao đẳng,> 50,có,ô tô,không,trung lưu
+chung cư,trung tâm,20-30,văn hoá nghệ thuật,đại học,40-50,có,ô tô,không,trung lưu
+chung cư,ngoại ô,20-30,văn hoá nghệ thuật,> đại học,23-30,có,ô tô,không,trung lưu
+nhà thuê,trung tâm,15-20,văn hoá nghệ thuật,> đại học,23-30,không,xe máy,không,trung lưu
+chung cư,ngoại ô,20-30,TX con người,> đại học,23-30,không,xe máy,có,trung lưu
+nhà thuê,ngoại ô,30-40,kỹ thuật,cao đẳng,23-30,có,ô tô,không,trung lưu
+chung cư,trung tâm,30-40,hành chính,đại học,23-30,không,xe máy,có,trung lưu
+nhà thuê,ngoại ô,20-30,kỹ thuật,> đại học,40-50,không,ô tô,có,trung lưu
+chung cư,ngoại ô,10-15,TX con người,cao đẳng,23-30,không,xe máy,không,trung lưu
+chung cư,trung tâm,20-30,kỹ thuật,cao đẳng,23-30,không,ô tô,có,trung lưu
+nhà thuê,ngoại ô,15-20,văn hoá nghệ thuật,cao đẳng,30-40,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,30-40,hành chính,đại học,30-40,không,xe máy,không,trung lưu
+chung cư,ngoại ô,20-30,TX con người,> đại học,> 50,có,ô tô,không,trung lưu
+nhà thuê,trung tâm,15-20,văn hoá nghệ thuật,đại học,23-30,không,ô tô,không,trung lưu
+chung cư,trung tâm,10-15,TX con người,đại học,30-40,có,xe máy,có,trung lưu
+nhà thuê,trung tâm,10-15,văn hoá nghệ thuật,đại học,30-40,không,ô tô,có,trung lưu
+nhà thuê,trung tâm,10-15,kỹ thuật,cao đẳng,23-30,không,xe máy,không,trung lưu
+chung cư,trung tâm,20-30,TX con người,cao đẳng,40-50,không,xe máy,có,trung lưu
+chung cư,ngoại ô,30-40,văn hoá nghệ thuật,cao đẳng,30-40,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,10-15,TX con người,> đại học,30-40,có,ô tô,có,trung lưu
+nhà thuê,trung tâm,20-30,kỹ thuật,cao đẳng,23-30,có,ô tô,không,trung lưu
+nhà thuê,ngoại ô,20-30,kỹ thuật,cao đẳng,30-40,không,ô tô,có,trung lưu
+chung cư,ngoại ô,30-40,TX con người,cao đẳng,23-30,có,ô tô,không,trung lưu
+chung cư,trung tâm,30-40,hành chính,đại học,40-50,không,ô tô,có,trung lưu
+chung cư,ngoại ô,20-30,văn hoá nghệ thuật,đại học,40-50,có,xe máy,có,trung lưu
+chung cư,trung tâm,20-30,kỹ thuật,cao đẳng,> 50,có,xe máy,không,trung lưu
+nhà thuê,trung tâm,30-40,kỹ thuật,đại học,> 50,có,xe máy,có,trung lưu
+chung cư,trung tâm,10-15,hành chính,cao đẳng,> 50,có,xe máy,không,trung lưu
+nhà thuê,ngoại ô,30-40,kỹ thuật,cao đẳng,> 50,có,xe máy,không,trung lưu
+nhà thuê,ngoại ô,15-20,kỹ thuật,> đại học,23-30,có,xe máy,không,trung lưu
+nhà thuê,trung tâm,20-30,kỹ thuật,> đại học,23-30,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,30-40,TX con người,cao đẳng,> 50,có,ô tô,không,trung lưu
+nhà thuê,ngoại ô,30-40,TX con người,cao đẳng,> 50,không,ô tô,có,trung lưu
+chung cư,trung tâm,15-20,hành chính,đại học,40-50,không,xe máy,không,trung lưu
+chung cư,trung tâm,20-30,hành chính,> đại học,40-50,có,xe máy,có,trung lưu
+chung cư,trung tâm,15-20,kỹ thuật,cao đẳng,23-30,có,xe máy,không,trung lưu
+nhà thuê,ngoại ô,30-40,hành chính,cao đẳng,30-40,có,ô tô,có,trung lưu
+chung cư,trung tâm,10-15,văn hoá nghệ thuật,cao đẳng,40-50,có,ô tô,không,trung lưu
+nhà thuê,trung tâm,10-15,TX con người,cao đẳng,30-40,không,ô tô,không,trung lưu
+nhà thuê,ngoại ô,20-30,TX con người,cao đẳng,30-40,có,xe máy,có,trung lưu
+nhà thuê,ngoại ô,30-40,TX con người,cao đẳng,40-50,có,ô tô,không,trung lưu
+nhà thuê,trung tâm,10-15,TX con người,cao đẳng,> 50,có,xe máy,có,trung lưu
+nhà thuê,trung tâm,10-15,hành chính,đại học,> 50,có,xe máy,có,trung lưu
+nhà thuê,ngoại ô,15-20,kỹ thuật,> đại học,30-40,không,ô tô,có,trung lưu
+chung cư,ngoại ô,30-40,kỹ thuật,đại học,40-50,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,10-15,hành chính,> đại học,> 50,có,ô tô,không,trung lưu
+nhà thuê,ngoại ô,10-15,văn hoá nghệ thuật,cao đẳng,23-30,không,xe máy,có,trung lưu
+chung cư,ngoại ô,30-40,hành chính,đại học,40-50,không,ô tô,không,trung lưu
+nhà thuê,trung tâm,20-30,văn hoá nghệ thuật,đại học,23-30,có,ô tô,có,trung lưu
+nhà thuê,trung tâm,15-20,TX con người,cao đẳng,> 50,không,ô tô,không,trung lưu
+nhà thuê,trung tâm,30-40,kỹ thuật,đại học,23-30,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,10-15,kỹ thuật,> đại học,30-40,có,ô tô,không,trung lưu
+nhà thuê,ngoại ô,10-15,văn hoá nghệ thuật,> đại học,23-30,có,xe máy,không,trung lưu
+chung cư,trung tâm,20-30,TX con người,đại học,> 50,có,ô tô,có,trung lưu
+nhà thuê,ngoại ô,10-15,TX con người,> đại học,30-40,không,xe máy,có,trung lưu
+nhà thuê,ngoại ô,30-40,kỹ thuật,> đại học,> 50,có,ô tô,có,trung lưu
+chung cư,ngoại ô,15-20,TX con người,cao đẳng,> 50,có,ô tô,có,trung lưu
+nhà thuê,ngoại ô,30-40,TX con người,cao đẳng,> 50,có,xe máy,có,trung lưu
+nhà thuê,ngoại ô,30-40,hành chính,đại học,> 50,có,xe máy,không,trung lưu
+nhà thuê,trung tâm,20-30,TX con người,> đại học,30-40,không,xe máy,không,trung lưu
+nhà thuê,trung tâm,30-40,kỹ thuật,cao đẳng,40-50,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,30-40,TX con người,> đại học,40-50,không,ô tô,không,trung lưu
+nhà thuê,trung tâm,10-15,TX con người,đại học,> 50,không,ô tô,có,trung lưu
+chung cư,trung tâm,10-15,TX con người,> đại học,> 50,có,ô tô,có,trung lưu
+chung cư,trung tâm,10-15,TX con người,đại học,30-40,có,ô tô,không,trung lưu
+nhà thuê,ngoại ô,15-20,hành chính,> đại học,30-40,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,10-15,TX con người,đại học,30-40,không,xe máy,có,trung lưu
+chung cư,ngoại ô,15-20,kỹ thuật,> đại học,30-40,không,ô tô,không,trung lưu
+nhà thuê,trung tâm,15-20,văn hoá nghệ thuật,cao đẳng,40-50,không,xe máy,có,trung lưu
+nhà thuê,ngoại ô,20-30,TX con người,> đại học,> 50,không,xe máy,không,trung lưu
+nhà thuê,ngoại ô,15-20,hành chính,> đại học,> 50,không,ô tô,không,trung lưu
+chung cư,trung tâm,15-20,hành chính,cao đẳng,> 50,có,xe máy,không,trung lưu
+nhà thuê,ngoại ô,10-15,kỹ thuật,> đại học,23-30,có,ô tô,có,trung lưu
+chung cư,ngoại ô,20-30,TX con người,cao đẳng,40-50,có,xe máy,có,trung lưu
+nhà thuê,ngoại ô,10-15,văn hoá nghệ thuật,cao đẳng,30-40,có,xe máy,có,trung lưu
+chung cư,trung tâm,20-30,văn hoá nghệ thuật,> đại học,30-40,không,xe máy,không,trung lưu
+chung cư,trung tâm,10-15,TX con người,> đại học,23-30,không,xe máy,có,trung lưu
+nhà thuê,ngoại ô,15-20,văn hoá nghệ thuật,> đại học,40-50,có,ô tô,không,trung lưu
+nhà thuê,ngoại ô,10-15,văn hoá nghệ thuật,cao đẳng,23-30,không,xe máy,không,trung lưu
+chung cư,ngoại ô,10-15,văn hoá nghệ thuật,> đại học,23-30,có,ô tô,có,trung lưu
+chung cư,ngoại ô,15-20,TX con người,> đại học,30-40,không,xe máy,có,trung lưu
+nhà thuê,trung tâm,30-40,văn hoá nghệ thuật,cao đẳng,40-50,có,xe máy,có,trung lưu
+chung cư,trung tâm,10-15,kỹ thuật,cao đẳng,23-30,có,xe máy,không,trung lưu
+chung cư,trung tâm,15-20,hành chính,> đại học,40-50,không,ô tô,không,trung lưu
+chung cư,trung tâm,20-30,văn hoá nghệ thuật,> đại học,40-50,không,xe máy,không,trung lưu
+chung cư,ngoại ô,10-15,kỹ thuật,cao đẳng,40-50,không,ô tô,có,trung lưu
+chung cư,trung tâm,15-20,hành chính,đại học,> 50,không,ô tô,không,trung lưu
+chung cư,trung tâm,20-30,kỹ thuật,cao đẳng,> 50,có,xe máy,không,trung lưu
+chung cư,trung tâm,15-20,TX con người,đại học,30-40,có,ô tô,không,trung lưu
+chung cư,ngoại ô,15-20,văn hoá nghệ thuật,cao đẳng,40-50,không,xe máy,không,trung lưu
+nhà thuê,trung tâm,10-15,TX con người,cao đẳng,23-30,có,xe máy,có,trung lưu
+nhà thuê,ngoại ô,30-40,kỹ thuật,> đại học,> 50,không,ô tô,không,trung lưu
+nhà thuê,trung tâm,20-30,TX con người,cao đẳng,30-40,không,ô tô,có,trung lưu
+nhà thuê,trung tâm,30-40,hành chính,> đại học,40-50,có,ô tô,có,trung lưu
+chung cư,trung tâm,15-20,hành chính,đại học,40-50,có,xe máy,có,trung lưu
+chung cư,trung tâm,15-20,TX con người,> đại học,40-50,không,xe máy,có,trung lưu
+nhà thuê,trung tâm,10-15,văn hoá nghệ thuật,cao đẳng,40-50,không,xe máy,không,trung lưu
+nhà thuê,trung tâm,15-20,TX con người,> đại học,> 50,không,ô tô,không,trung lưu
+chung cư,trung tâm,15-20,hành chính,cao đẳng,23-30,có,xe máy,có,trung lưu
+nhà riêng,ngoại ô,> 40,TX con người,đại học,23-30,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,30-40,TX con người,đại học,30-40,có,xe máy,có,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,> đại học,30-40,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,20-30,kỹ thuật,> đại học,> 50,có,xe máy,không,thượng lưu
+chung cư,trung tâm,> 40,TX con người,đại học,40-50,có,xe máy,không,thượng lưu
+chung cư,trung tâm,> 40,văn hoá nghệ thuật,> đại học,30-40,có,ô tô,không,thượng lưu
+chung cư,trung tâm,20-30,TX con người,> đại học,30-40,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,> 40,văn hoá nghệ thuật,> đại học,40-50,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,> 40,kỹ thuật,> đại học,40-50,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,> 40,TX con người,> đại học,> 50,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,20-30,văn hoá nghệ thuật,đại học,30-40,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,> 40,TX con người,> đại học,> 50,có,xe máy,không,thượng lưu
+chung cư,trung tâm,> 40,kỹ thuật,đại học,40-50,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,> 40,TX con người,đại học,40-50,có,xe máy,có,thượng lưu
+chung cư,trung tâm,30-40,kỹ thuật,đại học,23-30,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,> 40,kỹ thuật,đại học,23-30,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,20-30,kỹ thuật,đại học,30-40,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,20-30,kỹ thuật,> đại học,> 50,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,> 40,văn hoá nghệ thuật,> đại học,> 50,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,20-30,kỹ thuật,> đại học,23-30,có,xe máy,không,thượng lưu
+chung cư,trung tâm,30-40,TX con người,> đại học,30-40,có,xe máy,có,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,đại học,23-30,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,20-30,kỹ thuật,> đại học,30-40,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,30-40,văn hoá nghệ thuật,đại học,23-30,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,> 40,TX con người,đại học,> 50,có,ô tô,không,thượng lưu
+chung cư,trung tâm,> 40,văn hoá nghệ thuật,đại học,40-50,có,xe máy,không,thượng lưu
+chung cư,trung tâm,30-40,kỹ thuật,đại học,40-50,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,> 40,văn hoá nghệ thuật,đại học,30-40,có,xe máy,không,thượng lưu
+chung cư,trung tâm,30-40,kỹ thuật,> đại học,40-50,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,30-40,văn hoá nghệ thuật,> đại học,30-40,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,30-40,văn hoá nghệ thuật,đại học,40-50,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,> 40,văn hoá nghệ thuật,đại học,40-50,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,> 40,kỹ thuật,> đại học,30-40,có,ô tô,không,thượng lưu
+chung cư,trung tâm,30-40,TX con người,> đại học,> 50,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,20-30,văn hoá nghệ thuật,đại học,30-40,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,20-30,TX con người,đại học,23-30,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,> 40,văn hoá nghệ thuật,đại học,> 50,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,30-40,TX con người,> đại học,30-40,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,> 40,văn hoá nghệ thuật,> đại học,30-40,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,20-30,kỹ thuật,đại học,> 50,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,> 40,TX con người,> đại học,30-40,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,> 40,văn hoá nghệ thuật,đại học,30-40,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,20-30,TX con người,> đại học,23-30,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,20-30,TX con người,> đại học,23-30,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,đại học,23-30,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,30-40,văn hoá nghệ thuật,đại học,> 50,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,> 40,văn hoá nghệ thuật,> đại học,> 50,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,> 40,TX con người,> đại học,30-40,có,ô tô,có,thượng lưu
+chung cư,trung tâm,30-40,TX con người,đại học,40-50,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,20-30,văn hoá nghệ thuật,> đại học,> 50,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,30-40,TX con người,> đại học,30-40,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,> đại học,40-50,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,20-30,kỹ thuật,đại học,30-40,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,20-30,kỹ thuật,> đại học,40-50,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,20-30,văn hoá nghệ thuật,đại học,30-40,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,30-40,kỹ thuật,đại học,23-30,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,> 40,kỹ thuật,đại học,30-40,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,30-40,kỹ thuật,đại học,30-40,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,> đại học,23-30,có,xe máy,không,thượng lưu
+chung cư,trung tâm,30-40,văn hoá nghệ thuật,> đại học,> 50,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,30-40,kỹ thuật,đại học,30-40,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,30-40,kỹ thuật,đại học,40-50,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,20-30,TX con người,> đại học,40-50,có,xe máy,không,thượng lưu
+chung cư,trung tâm,30-40,văn hoá nghệ thuật,> đại học,30-40,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,30-40,kỹ thuật,đại học,40-50,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,> 40,văn hoá nghệ thuật,> đại học,40-50,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,> 40,TX con người,> đại học,30-40,có,xe máy,không,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,đại học,30-40,có,ô tô,có,thượng lưu
+chung cư,trung tâm,30-40,TX con người,đại học,40-50,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,20-30,văn hoá nghệ thuật,> đại học,23-30,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,> đại học,30-40,có,ô tô,có,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,> đại học,> 50,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,30-40,văn hoá nghệ thuật,đại học,> 50,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,> 40,kỹ thuật,đại học,> 50,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,20-30,văn hoá nghệ thuật,> đại học,23-30,có,ô tô,có,thượng lưu
+nhà riêng,trung tâm,30-40,văn hoá nghệ thuật,> đại học,40-50,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,> 40,kỹ thuật,đại học,23-30,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,đại học,30-40,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,> đại học,40-50,có,ô tô,không,thượng lưu
+chung cư,trung tâm,> 40,văn hoá nghệ thuật,> đại học,30-40,có,ô tô,có,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,đại học,> 50,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,30-40,văn hoá nghệ thuật,> đại học,> 50,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,> 40,kỹ thuật,đại học,23-30,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,30-40,TX con người,đại học,> 50,có,ô tô,không,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,> đại học,30-40,có,ô tô,có,thượng lưu
+chung cư,trung tâm,> 40,kỹ thuật,đại học,40-50,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,> 40,kỹ thuật,> đại học,23-30,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,> 40,TX con người,> đại học,23-30,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,30-40,văn hoá nghệ thuật,> đại học,30-40,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,30-40,văn hoá nghệ thuật,đại học,40-50,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,> 40,TX con người,đại học,23-30,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,> 40,TX con người,đại học,23-30,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,30-40,TX con người,> đại học,30-40,có,ô tô,không,thượng lưu
+chung cư,trung tâm,20-30,TX con người,đại học,> 50,có,ô tô,có,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,> đại học,23-30,có,xe máy,có,thượng lưu
+chung cư,trung tâm,30-40,kỹ thuật,đại học,40-50,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,30-40,văn hoá nghệ thuật,đại học,30-40,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,> 40,văn hoá nghệ thuật,đại học,30-40,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,30-40,kỹ thuật,> đại học,> 50,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,20-30,kỹ thuật,đại học,40-50,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,30-40,văn hoá nghệ thuật,đại học,40-50,có,xe máy,có,thượng lưu
+chung cư,trung tâm,30-40,kỹ thuật,đại học,30-40,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,> 40,TX con người,> đại học,23-30,có,ô tô,không,thượng lưu
+chung cư,trung tâm,> 40,kỹ thuật,> đại học,30-40,có,xe máy,không,thượng lưu
+chung cư,trung tâm,30-40,TX con người,đại học,40-50,có,ô tô,có,thượng lưu
+chung cư,trung tâm,> 40,văn hoá nghệ thuật,đại học,30-40,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,> 40,kỹ thuật,> đại học,40-50,có,xe máy,không,thượng lưu
+chung cư,trung tâm,30-40,TX con người,đại học,23-30,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,> 40,kỹ thuật,> đại học,23-30,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,20-30,văn hoá nghệ thuật,> đại học,30-40,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,20-30,TX con người,> đại học,40-50,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,20-30,kỹ thuật,> đại học,23-30,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,> đại học,23-30,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,20-30,TX con người,đại học,> 50,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,đại học,> 50,có,ô tô,không,thượng lưu
+chung cư,ngoại ô,30-40,kỹ thuật,> đại học,> 50,có,xe máy,không,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,> đại học,23-30,có,ô tô,có,thượng lưu
+chung cư,trung tâm,> 40,kỹ thuật,đại học,40-50,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,đại học,40-50,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,> đại học,> 50,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,> 40,văn hoá nghệ thuật,đại học,30-40,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,> 40,kỹ thuật,đại học,40-50,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,> 40,kỹ thuật,> đại học,40-50,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,> 40,văn hoá nghệ thuật,> đại học,40-50,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,30-40,văn hoá nghệ thuật,đại học,> 50,có,xe máy,không,thượng lưu
+chung cư,trung tâm,30-40,văn hoá nghệ thuật,đại học,40-50,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,20-30,TX con người,đại học,30-40,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,> 40,kỹ thuật,> đại học,> 50,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,> 40,TX con người,> đại học,40-50,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,30-40,văn hoá nghệ thuật,> đại học,> 50,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,30-40,văn hoá nghệ thuật,đại học,> 50,có,ô tô,không,thượng lưu
+chung cư,trung tâm,20-30,TX con người,đại học,23-30,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,20-30,kỹ thuật,> đại học,23-30,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,> 40,kỹ thuật,> đại học,40-50,có,ô tô,có,thượng lưu
+nhà riêng,trung tâm,> 40,kỹ thuật,đại học,30-40,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,20-30,văn hoá nghệ thuật,> đại học,30-40,có,ô tô,có,thượng lưu
+chung cư,trung tâm,> 40,văn hoá nghệ thuật,> đại học,40-50,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,30-40,văn hoá nghệ thuật,đại học,> 50,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,30-40,kỹ thuật,đại học,> 50,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,đại học,40-50,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,30-40,văn hoá nghệ thuật,> đại học,> 50,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,đại học,30-40,có,ô tô,có,thượng lưu
+chung cư,trung tâm,> 40,TX con người,đại học,30-40,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,> đại học,> 50,có,xe máy,không,thượng lưu
+chung cư,trung tâm,30-40,văn hoá nghệ thuật,> đại học,40-50,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,20-30,kỹ thuật,> đại học,40-50,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,> 40,TX con người,đại học,> 50,có,xe máy,có,thượng lưu
+chung cư,trung tâm,> 40,TX con người,đại học,> 50,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,> 40,TX con người,đại học,40-50,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,> đại học,40-50,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,> 40,văn hoá nghệ thuật,đại học,30-40,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,20-30,kỹ thuật,đại học,23-30,có,ô tô,có,thượng lưu
+chung cư,trung tâm,30-40,kỹ thuật,> đại học,23-30,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,> đại học,23-30,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,30-40,TX con người,đại học,40-50,có,ô tô,có,thượng lưu
+nhà riêng,trung tâm,> 40,kỹ thuật,> đại học,> 50,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,30-40,kỹ thuật,> đại học,23-30,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,> 40,kỹ thuật,> đại học,23-30,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,30-40,văn hoá nghệ thuật,đại học,40-50,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,20-30,văn hoá nghệ thuật,> đại học,40-50,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,> 40,kỹ thuật,đại học,> 50,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,> 40,kỹ thuật,> đại học,23-30,có,ô tô,có,thượng lưu
+nhà riêng,trung tâm,> 40,văn hoá nghệ thuật,đại học,40-50,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,30-40,TX con người,> đại học,30-40,có,ô tô,không,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,> đại học,40-50,có,ô tô,không,thượng lưu
+chung cư,trung tâm,> 40,TX con người,đại học,23-30,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,> 40,TX con người,đại học,> 50,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,30-40,kỹ thuật,> đại học,30-40,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,> 40,kỹ thuật,đại học,30-40,có,ô tô,có,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,> đại học,> 50,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,30-40,văn hoá nghệ thuật,> đại học,23-30,có,ô tô,không,thượng lưu
+nhà riêng,trung tâm,> 40,văn hoá nghệ thuật,> đại học,> 50,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,đại học,23-30,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,> 40,văn hoá nghệ thuật,> đại học,> 50,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,đại học,23-30,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,30-40,kỹ thuật,> đại học,> 50,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,đại học,30-40,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,20-30,kỹ thuật,> đại học,30-40,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,30-40,văn hoá nghệ thuật,> đại học,23-30,có,ô tô,không,thượng lưu
+nhà riêng,ngoại ô,30-40,văn hoá nghệ thuật,> đại học,40-50,có,xe máy,có,thượng lưu
+chung cư,trung tâm,> 40,TX con người,đại học,40-50,có,xe máy,không,thượng lưu
+chung cư,trung tâm,30-40,kỹ thuật,đại học,40-50,có,ô tô,có,thượng lưu
+nhà riêng,trung tâm,> 40,TX con người,đại học,30-40,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,> đại học,40-50,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,đại học,30-40,có,ô tô,có,thượng lưu
+chung cư,trung tâm,30-40,văn hoá nghệ thuật,> đại học,23-30,có,xe máy,có,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,đại học,40-50,có,ô tô,có,thượng lưu
+chung cư,ngoại ô,> 40,văn hoá nghệ thuật,> đại học,40-50,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,30-40,TX con người,> đại học,40-50,có,ô tô,có,thượng lưu
+chung cư,trung tâm,> 40,văn hoá nghệ thuật,đại học,23-30,có,xe máy,không,thượng lưu
+nhà riêng,ngoại ô,30-40,TX con người,> đại học,> 50,có,ô tô,không,thượng lưu
+chung cư,trung tâm,20-30,văn hoá nghệ thuật,> đại học,> 50,có,ô tô,có,thượng lưu
+chung cư,trung tâm,20-30,kỹ thuật,đại học,> 50,có,ô tô,có,thượng lưu
+nhà riêng,ngoại ô,20-30,TX con người,> đại học,> 50,có,xe máy,có,thượng lưu
+nhà riêng,trung tâm,20-30,TX con người,> đại học,23-30,có,xe máy,không,thượng lưu
+nhà riêng,trung tâm,30-40,văn hoá nghệ thuật,> đại học,30-40,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,> 40,văn hoá nghệ thuật,đại học,23-30,có,xe máy,không,thượng lưu
+chung cư,ngoại ô,30-40,TX con người,đại học,23-30,có,xe máy,có,thượng lưu
+chung cư,trung tâm,30-40,kỹ thuật,> đại học,23-30,có,xe máy,có,thượng lưu
+nhà riêng,ngoại ô,> 40,văn hoá nghệ thuật,> đại học,23-30,có,xe máy,có,thượng lưu

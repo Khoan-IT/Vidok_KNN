@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  chatroom:
+    image: nearest_amino_acid
+    build:
+      context: ./
+      dockerfile: Dockerfile.core
+    command: ["python", "main.py"]

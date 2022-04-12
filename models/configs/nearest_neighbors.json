@@ -1,0 +1,5 @@
+{
+  "radius": 5.5,
+  "leaf_size": 15,
+  "metric": "euclidean"
+}
